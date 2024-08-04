@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.6.160.53:8639/ganesh/repository/maven-releases/</url>
+	      <url>http://3.6.160.53:8639/ganesh/repository/mithun-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
